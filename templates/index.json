@@ -1,0 +1,56 @@
+{
+  "sections": {
+    "home_init": {
+      "type": "home-init",
+      "blocks": {
+        "9ee5c1d7-af1e-4007-954c-ea8d48923861": {
+          "type": "brand",
+          "settings": {
+            "brand__name": "roxanne",
+            "brand__link": "shopify:\/\/pages\/roxanne"
+          }
+        },
+        "350dfe4a-0c99-4799-88e9-904114ef6362": {
+          "type": "brand",
+          "settings": {
+            "brand__name": "voces que inspiran",
+            "brand__link": "shopify:\/\/pages\/voces-que-inspiran"
+          }
+        },
+        "bc045e18-b447-49d0-9884-88ea36c242da": {
+          "type": "brand",
+          "settings": {
+            "brand__name": "lumiere",
+            "brand__link": "shopify:\/\/pages\/lumiere"
+          }
+        },
+        "c32cda09-c958-46a1-848d-8ae9468e0705": {
+          "type": "brand",
+          "settings": {
+            "brand__name": "forestando",
+            "brand__link": "shopify:\/\/pages\/forestando"
+          }
+        },
+        "20fdae51-7f47-44f0-a9f6-ef521d59063a": {
+          "type": "brand",
+          "settings": {
+            "brand__name": "selecto huila",
+            "brand__link": "shopify:\/\/pages\/productos-gradiweb"
+          }
+        }
+      },
+      "block_order": [
+        "9ee5c1d7-af1e-4007-954c-ea8d48923861",
+        "350dfe4a-0c99-4799-88e9-904114ef6362",
+        "bc045e18-b447-49d0-9884-88ea36c242da",
+        "c32cda09-c958-46a1-848d-8ae9468e0705",
+        "20fdae51-7f47-44f0-a9f6-ef521d59063a"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "home_init"
+  ]
+}
