@@ -10,13 +10,6 @@
             "brand__link": "shopify:\/\/pages\/forestando"
           }
         },
-        "20fdae51-7f47-44f0-a9f6-ef521d59063a": {
-          "type": "brand",
-          "settings": {
-            "brand__name": "selecto huila",
-            "brand__link": "shopify:\/\/pages\/productos-gradiweb"
-          }
-        },
         "9ee5c1d7-af1e-4007-954c-ea8d48923861": {
           "type": "brand",
           "settings": {
@@ -27,7 +20,6 @@
       },
       "block_order": [
         "c32cda09-c958-46a1-848d-8ae9468e0705",
-        "20fdae51-7f47-44f0-a9f6-ef521d59063a",
         "9ee5c1d7-af1e-4007-954c-ea8d48923861"
       ],
       "settings": {
