@@ -1,22 +1,22 @@
 {
-  "name": "forestando-ando",
+  "name": "cristiandussan",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-dev": "webpack --watch --mode development",
-    "build-prod": "webpack --mode production"
+    "dev": "webpack --watch --mode development",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crstndssn/forestando-ando.git"
+    "url": "git+https://github.com/crstndssn/cristiandussan"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/crstndssn/forestando-ando/issues"
+    "url": "https://github.com/crstndssn/cristiandussan"
   },
-  "homepage": "https://github.com/crstndssn/forestando-ando#readme",
+  "homepage": "https://cristiandussan.com/",
   "dependencies": {
     "babel": "^6.23.0",
     "babel-loader": "^8.2.3",
