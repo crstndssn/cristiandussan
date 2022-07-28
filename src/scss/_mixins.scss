@@ -4,8 +4,7 @@ $breakpoints: (
     'tablet-l': ( min-width: 992px ),
     'desktop-s': ( min-width: 1200px ),
     'desktop-m': ( min-width: 1440px ),
-    'desktop-l': ( min-width: 1740px ),
-    'desktop-xl': ( min-width: 1920px )
+    'desktop-l': ( min-width: 1600px )
 ) !default;
 
 @mixin media($breakpoint) {

@@ -1,9 +1,11 @@
 .home-init {
-  padding: 1rem 0;
-  background-color: $background;
   * {
-    margin: 0;
+    max-width: 1600px;
+    margin: 0 5rem;
+    padding: 1rem 0;
+    background-color: $background;
   }
+
   img {
     width: 100%;
     height: auto;

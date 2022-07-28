@@ -3,7 +3,11 @@
   \************************************************************************************************************/
 /*  Font family  */
 body {
-  background-color: #fffffa;
+  background: #000 !important;
+}
+
+p, a, h1, h2, h3 {
+  color: #fff !important;
 }
 
 body, span {
@@ -23,12 +27,11 @@ body {
   overflow-x: hidden;
 }
 
-.home-init {
+.home-init * {
+  max-width: 1600px;
+  margin: 0 5rem;
   padding: 1rem 0;
   background-color: #FFFFF9;
-}
-.home-init * {
-  margin: 0;
 }
 .home-init img {
   width: 100%;
