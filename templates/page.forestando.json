@@ -1,7 +1,43 @@
 {
   "sections": {
     "main": {
-      "type": "main-page",
+      "type": "home-init",
+      "blocks": {
+        "b9ced6c4-4d2f-44ed-ad15-bf1cd41e4f9c": {
+          "type": "brand",
+          "settings": {
+            "brand__name": "nuestro bosque",
+            "brand__link": "shopify:\/\/pages\/bosque-seco-tropical"
+          }
+        },
+        "faff70f2-db2b-4c54-afce-cd7dd0d7f14e": {
+          "type": "brand",
+          "settings": {
+            "brand__name": "nuestro jardín",
+            "brand__link": "shopify:\/\/pages\/nuestro-jardin"
+          }
+        },
+        "e61da98a-3718-4e53-a753-691682c4780e": {
+          "type": "brand",
+          "settings": {
+            "brand__name": "selecto huila",
+            "brand__link": "shopify:\/\/pages\/selecto-huila"
+          }
+        },
+        "bf84ee22-4ebf-47e2-9752-108c98aeb77d": {
+          "type": "brand",
+          "settings": {
+            "brand__name": "cascada del amor",
+            "brand__link": "shopify:\/\/pages\/cascada-del-amor"
+          }
+        }
+      },
+      "block_order": [
+        "b9ced6c4-4d2f-44ed-ad15-bf1cd41e4f9c",
+        "faff70f2-db2b-4c54-afce-cd7dd0d7f14e",
+        "e61da98a-3718-4e53-a753-691682c4780e",
+        "bf84ee22-4ebf-47e2-9752-108c98aeb77d"
+      ],
       "settings": {
       }
     },
