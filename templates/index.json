@@ -41,7 +41,7 @@
           "type": "brand",
           "settings": {
             "brand__name": "roxanne",
-            "brand__link": "",
+            "brand__link": "shopify:\/\/pages\/roxanne",
             "brand__color": "#000000"
           }
         }
