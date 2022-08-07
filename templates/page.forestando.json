@@ -1,7 +1,10 @@
 {
   "sections": {
     "model": {
-      "type": "model-page"
+      "type": "model-page",
+      "settings": {
+        "page_blog": "forestando"
+      }
     }
   },
   "order": [
