@@ -1,30 +1,30 @@
 * {
+  background: #fff !important;
+  color: #000 !important;
+  font-family: 'DM Sans', sans-serif !important;
+}
+
+.field {
+  border: 1px solid #000 !important;
+  border-radius: 10px !important;
+}
+
+.field__input {
+  border-radius: 10px !important;
+}
+
+button {
   background: #000 !important;
+  border: 1px solid #000 !important;
+  border-radius: 10px !important;
   color: #fff !important;
-
-}
-  p, a, h1, h2, h3, label {
-    color: #fff !important;
-  }
-body, span {
-  font-family: 'DM Sans', sans-serif !important;
-  color: #fff !important;
-  border: #fff !important;
 }
 
-h1, h2, h3, input {
-  font-family: 'DM Sans', sans-serif !important;
-  color: #fff !important;
-  border: #fff !important;
-}
-footer { 
+footer {
   * {
-     color: #fff !important;
+    border: 1px solid #fff !important;
+    background: transparent !important;
   }
- 
 }
 
-.field__label {
-  color: #fff !important;
-}
 

@@ -1,12 +1,10 @@
 {
   "sections": {
-    "main": {
-      "type": "model-page",
-      "settings": {
-      }
+    "model": {
+      "type": "model-page"
     }
   },
   "order": [
-    "main"
+    "model"
   ]
 }
