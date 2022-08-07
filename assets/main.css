@@ -85,13 +85,14 @@ a {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   margin: 0 auto;
-  padding: 0 5rem;
+  padding: 0 1.5rem;
   row-gap: 2rem;
   column-gap: 2rem;
 }
 @media (min-width: 720px) {
   .home-color {
     grid-template-columns: repeat(2, 1fr);
+    padding: 0 5rem;
   }
 }
 .home-color__grid a {
